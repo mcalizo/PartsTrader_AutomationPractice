@@ -1,0 +1,17 @@
+{
+"viewportWidth": 1000,
+"viewportHeight": 660,    
+"defaultCommandTimeOut": 8000,
+"pageLoadTimeOut": 6000,   
+"retries": {
+    "runMode": 2,
+    "openMode": 2
+},    
+"env": {
+    "url": "http://automationpractice.com/"
+    
+  }
+
+}
+
+

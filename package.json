@@ -1,0 +1,16 @@
+{
+  "name": "practice-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cy:run" : "npx cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^9.6.1",
+    "cypress-image-snapshot": "^4.0.1",
+    "cypress-xpath": "^1.6.2"
+  }
+}
